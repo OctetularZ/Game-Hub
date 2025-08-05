@@ -20,6 +20,7 @@ const App = () => {
           base: "1fr",
           lg: "200px 1fr",
         }}
+        gap={10}
       >
         <GridItem area={"nav"}>
           <NavBar></NavBar>
