@@ -36,7 +36,11 @@ const PlatformIconList = ({ platforms }: Props) => {
     // Passing one here uses the default multipler for margin set in the theme (which is 4px in this case)
     <HStack marginY={1}>
       {platforms.map((platform) => (
-        <Icon as={iconMap[platform.slug]} color={"gray.500"} />
+        <Icon
+          key={platform.slug}
+          as={iconMap[platform.slug]}
+          color={"gray.500"}
+        />
       ))}
     </HStack>
   )
