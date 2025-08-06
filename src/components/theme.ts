@@ -6,7 +6,7 @@ export const system = createSystem(defaultConfig, {
       colors: {
         brand: {
           2: {value: "#282b30"},
-          3: {value: "#23272A"}
+          3: {value: "#23272A"},
         }
       }
     }
