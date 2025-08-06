@@ -1,5 +1,7 @@
 # 🎮 Game Hub
 
+![HomePage Screenshot](./src/assets/appScreenshots/HomePage.png)
+
 Game Hub is a modern web-based application where gamers can explore the latest releases, discover hidden gems, and decide what to play next. Built with **React**, **TypeScript**, and **Chakra UI**, it delivers a clean, responsive, and user-friendly experience for browsing games by genre, platform, rating, and more.
 
 🌐 **Live Demo:** [Game Hub on Vercel](https://game-hub-beta-liard.vercel.app/)
