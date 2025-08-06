@@ -65,3 +65,11 @@ Game-Hub/
 
 ---
 
+## 💡 Special Challenges & Learnings
+
+- **Dynamic API Querying** – Handling multiple filters (genre, platform, sort) dynamically without performance issues.
+- **Responsive Layout with Chakra UI** – Designing a UI that adapts seamlessly to desktop and mobile with minimal breakpoints.
+- **State Management** – Managing search, filters, and API results without introducing unnecessary re-renders.
+- **Theme Switching** – Implementing persistent dark/light mode using Chakra’s `ColorModeProvider`.
+- **API Rate Limits** – Optimizing API calls with debouncing in search functionality to avoid exceeding rate limits.
+
