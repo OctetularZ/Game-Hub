@@ -46,7 +46,7 @@ npm run dev
 ```
 
 ---
-## ⚙️ Folder/File Structure
+## ⚙️ Project Structure
 
 ```
 Game-Hub/
