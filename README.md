@@ -48,6 +48,7 @@ npm run dev
 ---
 ## ⚙️ Folder/File Structure
 
+```
 Game-Hub/
 ├── public/             # Static assets (images, favicon, etc.)
 ├── src/                # Source code files
@@ -58,6 +59,7 @@ Game-Hub/
 ├── package.json        # Project metadata and dependencies
 ├── vite.config.ts      # Vite configuration file
 └── README.md           # Project documentation
+```
 
 ---
 
